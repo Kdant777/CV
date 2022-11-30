@@ -1,0 +1,11 @@
+h1,h2{
+    color: brown;
+}
+h3{
+    color: rgb(243, 155, 155);
+}
+.wrapper{
+    display: flex;
+    gap: 700px;
+    background-color: bisque;
+}
